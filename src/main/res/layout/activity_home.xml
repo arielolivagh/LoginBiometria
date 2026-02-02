@@ -20,7 +20,6 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView"
         app:layout_constraintVertical_bias="0.057" />
 
     <TextView
@@ -111,6 +110,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.127"
-        app:srcCompat="@drawable/Saldo" />
+        app:srcCompat="@drawable/saldos" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

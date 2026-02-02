@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#0629F0"
+    android:background="#1A36D3"
     tools:context=".MainActivity">
 
     <ImageView
@@ -92,7 +92,7 @@
         app:srcCompat="@drawable/huella" />
 
     <ImageView
-        android:id="@+id/imageView3"
+        android:id="@+id/imagenHuella"
         android:layout_width="134dp"
         android:layout_height="112dp"
         app:layout_constraintBottom_toBottomOf="parent"
